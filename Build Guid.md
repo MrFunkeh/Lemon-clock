@@ -13,3 +13,4 @@
 - The triangles in between two holes is a refference to where you can put zip ties for cable management.
 - The little rectangle lines beside the snowman hole is the center point refference for the mounting screw.
 - All of the other holes are most likely for use of screws to the other side or view ports.
+- Rectangles in the corners are add on pads to make room for the screw heads, makes it rest flush on the wall.
