@@ -4,7 +4,7 @@
 - Solder
 - Philips screw driver
 - 3D printer
-- Fillament (about 0.5KG)
+- Fillament (about 0.8KG)
 
 # What is what
 
