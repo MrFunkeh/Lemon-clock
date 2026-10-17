@@ -1,17 +1,11 @@
-Item, QTY, Link (shortened AliExpress links)
-USB-C Charger, 1, https://tinyurl.com/yv42ks3u
-Buck Boost Converter, 1, https://tinyurl.com/2eb7ud4p
-SD Card (8gb or more), 1, https://tinyurl.com/ycy9b969
-18650 Lipo Battery, 2, https://tinyurl.com/294637b7
-ESP32-C3, 1, https://tinyurl.com/4567frmf
-28BYJ-48 + ULN2003 Driver, 2, https://tinyurl.com/55ww9syc
-DFPlayer, 1, https://tinyurl.com/c7uapb67
-Micro Limit Switch (with roller), 3, https://tinyurl.com/mf23avtc
-Rotary Encoder, 1, https://tinyurl.com/2jscnrak
-Screws 1cm, 10, https://tinyurl.com/dw7r8n45
-Super Glue, 1, any local hardware or dollar store
-Total Cost ~30 USD,,
-,,
-__(Optional)__,,
-Zip ties,,
-Heat shrink,,
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Screws 1CM,1,AliExpress,$3.10,$3.10,https://www.aliexpress.com/item/4001248931159.html?spm=a2g0o.cart.0.0.71e138dajR0xLw&mp=1&pdp_npi=6%40dis%21CAD%21CAD+4.40%21CAD+4.40%21%21CAD+4.40%21%21%21%402103128917921940491083358e0ed1%2112000034160900226%21ct%21CA%216061460175%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D
+Wire,1,AliExpress,$3.75,$3.75,https://www.aliexpress.com/item/1005007590292342.html?spm=a2g0o.cart.0.0.71e138dajR0xLw&mp=1&pdp_npi=6%40dis%21CAD%21CAD%205.30%21CAD%205.30%21%21CAD%205.30%21%21%21%402103128917921940491083358e0ed1%2112000041415337806%21ct%21CA%216061460175%21%211%210%21
+ESP32-C3,1,AliExpress,$3.20,$3.20,https://www.aliexpress.com/item/1005008234672660.html?spm=a2g0o.cart.0.0.71e138dajR0xLw&mp=1&pdp_npi=6%40dis%21CAD%21CAD+4.53%21CAD+4.53%21%21CAD+4.53%21%21%21%402103128917921940491083358e0ed1%2112000044321264937%21ct%21CA%216061460175%21%211%210%21
+Lipo Charger,1,AliExpress,$2.70,$2.70,https://www.aliexpress.com/item/1005008745088487.html?spm=a2g0o.cart.0.0.71e138dajR0xLw&mp=1&pdp_npi=6%40dis%21CAD%21CAD+3.80%21CAD+3.80%21%21CAD+3.80%21%21%21%402103128917921940491083358e0ed1%2112000046492576520%21ct%21CA%216061460175%21%211%210%21
+Switch,1,AliExpress,$3.90,$3.90,https://www.aliexpress.com/item/1005009066234512.html?spm=a2g0o.cart.0.0.71e138dajR0xLw&mp=1&pdp_npi=6%40dis%21CAD%21CAD+5.54%21CAD+5.54%21%21CAD+5.54%21%21%21%402103128917921940491083358e0ed1%2112000047795443999%21ct%21CA%216061460175%21%211%210%21
+Stepper motor,1,AliExpress,$2.30,$2.30,https://www.aliexpress.com/item/1005006141716201.html?spm=a2g0o.cart.0.0.71e138dajR0xLw&mp=1&pdp_npi=6%40dis%21CAD%21CAD+3.20%21CAD+3.20%21%21CAD+3.20%21%21%21%402103128917921940491083358e0ed1%2112000035947584076%21ct%21CA%216061460175%21%211%210%21
+SD card,1,AliExpress,$5.20,$5.20,https://www.aliexpress.com/item/1005012294264996.html?spm=a2g0o.cart.0.0.71e138dajR0xLw&mp=1&pdp_npi=6%40dis%21CAD%21CAD+15.85%21CAD+7.29%21%21CAD+7.29%21%21%21%402103128917921940491083358e0ed1%2112000057978617587%21ct%21CA%216061460175%21%211%210%21
+DFPlayer,1,AliExpress,$1.40,$1.40,https://www.aliexpress.com/item/1005010582107895.html?spm=a2g0o.cart.0.0.71e138dajR0xLw&mp=1&pdp_npi=6%40dis%21CAD%21CAD+13.05%21CAD+1.73%21%21CAD+1.73%21%21%21%402103128917921940491083358e0ed1%2112000052887810993%21ct%21CA%216061460175%21%211%210%21
+Buck Boost Converter,1,AliExpress,$1.30,$1.30,https://www.aliexpress.com/item/1005009363637613.html?spm=a2g0o.cart.0.0.71e138dajR0xLw&mp=1&pdp_npi=6%40dis%21CAD%21CAD%201.79%21CAD%201.79%21%21CAD%201.79%21%21%21%402103128917921940491083358e0ed1%2112000048871928651%21ct%21CA%216061460175%21%211%210%21
+Estimated total shipping,1,,,$0.00,
