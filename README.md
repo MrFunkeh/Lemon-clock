@@ -10,7 +10,7 @@ A lemon clock with a coco bird
 # Why I built it
 
 I built it for week two of hack club half life.
-I am gifting it my girlfriend for christmas.
+I wanted to challenge my 3D modeling skils.
 
 
   # What I learned
