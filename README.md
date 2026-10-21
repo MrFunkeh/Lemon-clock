@@ -1,9 +1,9 @@
 # Lemon-clock
 A lemon clock with a coco bird
 
-<img width="506" height="675" alt="image" src="https://github.com/user-attachments/assets/55962a05-047d-4ec1-98ef-9997d32046f7" />
+<img width="509" height="711" alt="image" src="https://github.com/user-attachments/assets/266fb245-b4ad-4f16-ad04-6eaaf4a82702" />
 
-<img width="600" height="612" alt="image" src="https://github.com/user-attachments/assets/cb82a1d0-9c65-4168-ad90-29b5cd6e57b6" />
+<img width="953" height="737" alt="image" src="https://github.com/user-attachments/assets/a5091924-eb6d-4b60-9b2b-9d592312b4f3" />
 
 
 
